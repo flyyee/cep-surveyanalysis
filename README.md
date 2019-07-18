@@ -1,8 +1,9 @@
 # cep-surveyanalysis
-Outcome:
-Analyses survey results and presents analysis, in the form of console text and visual graphs.
+__Outcome:__
+_Analyses survey results and presents analysis, in the form of console text and visual graphs._
 
-Task:
+
+__Task:__
 Analysing CS Feedback Survey
 
 Problem Statement
