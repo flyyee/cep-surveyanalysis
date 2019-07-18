@@ -1,0 +1,1000 @@
+Dataset 0: Timestamp
+Keywords: 
+No keywords for a datetime dataset.
+
+
+Mode: No unique mode.
+
+
+Popularity of options: 
+Option 2018-03-20 08:36:58.413000: 1 times: 0.50% of total responses
+Option 2018-03-20 08:37:26.410000: 1 times: 0.50% of total responses
+Option 2018-03-20 08:37:32.429000: 1 times: 0.50% of total responses
+Option 2018-03-20 08:37:43.841000: 1 times: 0.50% of total responses
+Option 2018-03-20 08:38:45.499000: 1 times: 0.50% of total responses
+Option 2018-03-20 08:39:14.258000: 1 times: 0.50% of total responses
+Option 2018-03-20 08:39:58.058000: 1 times: 0.50% of total responses
+Option 2018-03-20 08:40:39.367000: 1 times: 0.50% of total responses
+Option 2018-03-20 08:41:47.831000: 1 times: 0.50% of total responses
+Option 2018-03-20 08:42:01.919000: 1 times: 0.50% of total responses
+Option 2018-03-20 08:42:05.473000: 1 times: 0.50% of total responses
+Option 2018-03-20 08:42:20.953000: 1 times: 0.50% of total responses
+Option 2018-03-20 08:42:29.125000: 1 times: 0.50% of total responses
+Option 2018-03-20 08:42:39.941000: 1 times: 0.50% of total responses
+Option 2018-03-20 08:42:58.346000: 1 times: 0.50% of total responses
+Option 2018-03-20 08:43:48.050000: 1 times: 0.50% of total responses
+Option 2018-03-20 08:45:58.882000: 1 times: 0.50% of total responses
+Option 2018-03-20 08:48:08.573000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:00:09.421000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:00:55.688000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:01:50.656000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:01:57.228000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:01:59.827000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:02:07.876000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:02:17.991000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:02:26.177000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:02:33.265000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:02:38.260000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:02:51.709000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:02:53.462000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:03:05.337000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:03:12.624000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:03:15.535000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:03:30.883000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:03:32.430000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:04:05.229000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:04:27.037000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:04:48.914000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:04:51.480000: 1 times: 0.50% of total responses
+Option 2018-03-21 08:05:29.612000: 1 times: 0.50% of total responses
+Option 2018-03-26 08:53:19.033000: 1 times: 0.50% of total responses
+Option 2018-03-26 08:53:35.769000: 1 times: 0.50% of total responses
+Option 2018-03-26 08:53:43.775000: 1 times: 0.50% of total responses
+Option 2018-03-26 08:54:12.616000: 1 times: 0.50% of total responses
+Option 2018-03-26 08:54:17.127000: 1 times: 0.50% of total responses
+Option 2018-03-26 08:54:35.165000: 1 times: 0.50% of total responses
+Option 2018-03-26 08:54:43.919000: 1 times: 0.50% of total responses
+Option 2018-03-26 08:55:10.068000: 1 times: 0.50% of total responses
+Option 2018-03-26 08:55:15.496000: 1 times: 0.50% of total responses
+Option 2018-03-26 08:55:21.548000: 1 times: 0.50% of total responses
+Option 2018-03-26 08:55:45.309000: 1 times: 0.50% of total responses
+Option 2018-03-26 08:56:09.240000: 1 times: 0.50% of total responses
+Option 2018-03-26 08:57:06.117000: 1 times: 0.50% of total responses
+Option 2018-03-26 08:57:15.650000: 1 times: 0.50% of total responses
+Option 2018-03-26 08:57:36.276000: 1 times: 0.50% of total responses
+Option 2018-03-26 08:58:13.859000: 1 times: 0.50% of total responses
+Option 2018-03-26 08:58:35.674000: 1 times: 0.50% of total responses
+Option 2018-03-26 08:59:20.858000: 1 times: 0.50% of total responses
+Option 2018-03-26 08:59:28.019000: 1 times: 0.50% of total responses
+Option 2018-03-26 09:00:04.525000: 1 times: 0.50% of total responses
+Option 2018-03-26 09:00:13.870000: 1 times: 0.50% of total responses
+Option 2018-03-26 09:01:04.057000: 1 times: 0.50% of total responses
+Option 2018-03-26 09:01:17.311000: 1 times: 0.50% of total responses
+Option 2018-03-26 09:01:34.230000: 1 times: 0.50% of total responses
+Option 2018-03-26 09:09:02.938000: 1 times: 0.50% of total responses
+Option 2018-03-26 10:31:14.508000: 1 times: 0.50% of total responses
+Option 2018-03-26 10:32:24.446000: 1 times: 0.50% of total responses
+Option 2018-03-26 10:32:34.668000: 1 times: 0.50% of total responses
+Option 2018-03-26 10:32:58.359000: 1 times: 0.50% of total responses
+Option 2018-03-26 10:33:18.660000: 1 times: 0.50% of total responses
+Option 2018-03-26 10:33:27.233000: 1 times: 0.50% of total responses
+Option 2018-03-26 10:33:28.874000: 1 times: 0.50% of total responses
+Option 2018-03-26 10:33:30.210000: 1 times: 0.50% of total responses
+Option 2018-03-26 10:34:29.694000: 1 times: 0.50% of total responses
+Option 2018-03-26 10:34:49.535000: 1 times: 0.50% of total responses
+Option 2018-03-26 10:36:32.176000: 1 times: 0.50% of total responses
+Option 2018-03-26 10:36:34.472000: 1 times: 0.50% of total responses
+Option 2018-03-26 10:36:38.913000: 1 times: 0.50% of total responses
+Option 2018-03-26 10:36:44.452000: 1 times: 0.50% of total responses
+Option 2018-03-26 10:36:51.887000: 1 times: 0.50% of total responses
+Option 2018-03-26 10:37:02.555000: 1 times: 0.50% of total responses
+Option 2018-03-26 10:37:17.375000: 1 times: 0.50% of total responses
+Option 2018-03-26 10:38:34.308000: 1 times: 0.50% of total responses
+Option 2018-03-26 10:40:44.585000: 1 times: 0.50% of total responses
+Option 2018-03-26 13:43:03.852000: 1 times: 0.50% of total responses
+Option 2018-03-26 13:43:50.723000: 1 times: 0.50% of total responses
+Option 2018-03-26 13:44:44.077000: 1 times: 0.50% of total responses
+Option 2018-03-26 13:44:44.498000: 1 times: 0.50% of total responses
+Option 2018-03-26 13:44:52.302000: 1 times: 0.50% of total responses
+Option 2018-03-26 13:45:02.486000: 1 times: 0.50% of total responses
+Option 2018-03-26 13:45:04.258000: 1 times: 0.50% of total responses
+Option 2018-03-26 13:45:04.780000: 1 times: 0.50% of total responses
+Option 2018-03-26 13:45:14.026000: 1 times: 0.50% of total responses
+Option 2018-03-26 13:45:29.399000: 1 times: 0.50% of total responses
+Option 2018-03-26 13:45:40.703000: 1 times: 0.50% of total responses
+Option 2018-03-26 13:45:57.187000: 1 times: 0.50% of total responses
+Option 2018-03-26 13:48:53.522000: 1 times: 0.50% of total responses
+Option 2018-03-26 13:50:20.043000: 1 times: 0.50% of total responses
+Option 2018-03-26 13:50:20.764000: 1 times: 0.50% of total responses
+Option 2018-03-26 19:48:28.691000: 1 times: 0.50% of total responses
+Option 2018-03-29 11:26:41.769000: 1 times: 0.50% of total responses
+Option 2018-03-29 11:27:05.336000: 1 times: 0.50% of total responses
+Option 2018-03-29 11:28:10.289000: 1 times: 0.50% of total responses
+Option 2018-03-29 11:28:55.102000: 1 times: 0.50% of total responses
+Option 2018-03-29 11:29:38.772000: 1 times: 0.50% of total responses
+Option 2018-03-29 11:30:17.047000: 1 times: 0.50% of total responses
+Option 2018-03-29 11:30:40.010000: 1 times: 0.50% of total responses
+Option 2018-03-29 11:30:40.558000: 1 times: 0.50% of total responses
+Option 2018-03-29 11:31:18.971000: 1 times: 0.50% of total responses
+Option 2018-03-29 11:31:28.421000: 1 times: 0.50% of total responses
+Option 2018-03-29 11:31:43.426000: 1 times: 0.50% of total responses
+Option 2018-03-29 11:32:18.199000: 1 times: 0.50% of total responses
+Option 2018-03-29 11:32:43.146000: 1 times: 0.50% of total responses
+Option 2018-03-29 11:33:21.526000: 1 times: 0.50% of total responses
+Option 2018-03-29 11:34:20.750000: 1 times: 0.50% of total responses
+Option 2018-03-29 11:35:09.830000: 1 times: 0.50% of total responses
+Option 2018-07-10 08:59:37.639000: 1 times: 0.50% of total responses
+Option 2018-07-10 09:00:02.493000: 1 times: 0.50% of total responses
+Option 2018-07-10 09:00:03.624000: 1 times: 0.50% of total responses
+Option 2018-07-10 09:00:09.445000: 1 times: 0.50% of total responses
+Option 2018-07-10 09:00:14.193000: 1 times: 0.50% of total responses
+Option 2018-07-10 09:01:27.471000: 1 times: 0.50% of total responses
+Option 2018-07-10 09:02:04.181000: 1 times: 0.50% of total responses
+Option 2018-07-10 09:02:32.560000: 1 times: 0.50% of total responses
+Option 2018-07-10 09:04:13.944000: 1 times: 0.50% of total responses
+Option 2018-07-10 09:04:25.901000: 1 times: 0.50% of total responses
+Option 2018-07-10 09:06:01.949000: 1 times: 0.50% of total responses
+Option 2018-07-10 09:06:20.762000: 1 times: 0.50% of total responses
+Option 2018-07-10 09:13:17.032000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:26:44.219000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:27:13.606000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:27:15.860000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:27:34.022000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:27:44.361000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:28:41.856000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:28:42.034000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:29:55.852000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:30:05.297000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:31:28.055000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:31:33.773000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:32:42.870000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:33:13.297000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:33:31.762000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:34:33.790000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:34:55.794000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:35:03.524000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:35:04.652000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:36:45.854000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:37:27.130000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:39:15.159000: 1 times: 0.50% of total responses
+Option 2018-07-12 12:43:14.028000: 1 times: 0.50% of total responses
+Option 2018-07-23 10:03:55.822000: 1 times: 0.50% of total responses
+Option 2018-07-23 10:04:10.794000: 1 times: 0.50% of total responses
+Option 2018-07-23 10:04:54.763000: 1 times: 0.50% of total responses
+Option 2018-07-23 10:05:26.858000: 1 times: 0.50% of total responses
+Option 2018-07-23 10:05:31.393000: 1 times: 0.50% of total responses
+Option 2018-07-23 10:05:31.415000: 1 times: 0.50% of total responses
+Option 2018-07-23 10:06:01.862000: 1 times: 0.50% of total responses
+Option 2018-07-23 10:06:19.771000: 1 times: 0.50% of total responses
+Option 2018-07-23 10:06:24.252000: 1 times: 0.50% of total responses
+Option 2018-07-23 10:06:27.773000: 1 times: 0.50% of total responses
+Option 2018-07-23 10:06:41.787000: 1 times: 0.50% of total responses
+Option 2018-07-23 10:06:42.702000: 1 times: 0.50% of total responses
+Option 2018-07-23 10:06:50.431000: 1 times: 0.50% of total responses
+Option 2018-07-23 10:06:58.014000: 1 times: 0.50% of total responses
+Option 2018-07-23 10:07:27.718000: 1 times: 0.50% of total responses
+Option 2018-07-23 10:08:16.500000: 1 times: 0.50% of total responses
+Option 2018-07-23 11:39:47.530000: 1 times: 0.50% of total responses
+Option 2018-07-23 11:40:53.950000: 1 times: 0.50% of total responses
+Option 2018-07-23 11:41:20.620000: 1 times: 0.50% of total responses
+Option 2018-07-23 11:41:28.201000: 1 times: 0.50% of total responses
+Option 2018-07-23 11:41:30.384000: 1 times: 0.50% of total responses
+Option 2018-07-23 11:41:32.104000: 1 times: 0.50% of total responses
+Option 2018-07-23 11:41:52.068000: 1 times: 0.50% of total responses
+Option 2018-07-23 11:42:01.558000: 1 times: 0.50% of total responses
+Option 2018-07-23 11:42:03.170000: 1 times: 0.50% of total responses
+Option 2018-07-23 11:42:14.145000: 1 times: 0.50% of total responses
+Option 2018-07-23 11:42:23.539000: 1 times: 0.50% of total responses
+Option 2018-07-23 11:42:42.631000: 1 times: 0.50% of total responses
+Option 2018-07-23 11:43:01.288000: 1 times: 0.50% of total responses
+Option 2018-07-23 11:43:03.846000: 1 times: 0.50% of total responses
+Option 2018-07-23 11:44:07.220000: 1 times: 0.50% of total responses
+Option 2018-07-23 11:44:13.295000: 1 times: 0.50% of total responses
+Option 2018-07-23 11:44:38.886000: 1 times: 0.50% of total responses
+Option 2018-07-23 11:44:39.177000: 1 times: 0.50% of total responses
+Option 2018-07-23 15:12:15.650000: 1 times: 0.50% of total responses
+Option 2018-07-23 15:12:34.164000: 1 times: 0.50% of total responses
+Option 2018-07-23 15:12:34.976000: 1 times: 0.50% of total responses
+Option 2018-07-23 15:12:41.705000: 1 times: 0.50% of total responses
+Option 2018-07-23 15:12:57.402000: 1 times: 0.50% of total responses
+Option 2018-07-23 15:13:04.264000: 1 times: 0.50% of total responses
+Option 2018-07-23 15:13:07.762000: 1 times: 0.50% of total responses
+Option 2018-07-23 15:13:07.945000: 1 times: 0.50% of total responses
+Option 2018-07-23 15:13:30.526000: 1 times: 0.50% of total responses
+Option 2018-07-23 15:13:45.529000: 1 times: 0.50% of total responses
+Option 2018-07-23 15:13:46.800000: 1 times: 0.50% of total responses
+Option 2018-07-23 15:13:54.759000: 1 times: 0.50% of total responses
+Option 2018-07-23 15:14:16.273000: 1 times: 0.50% of total responses
+Option 2018-07-23 15:14:29.409000: 1 times: 0.50% of total responses
+Option 2018-07-23 15:14:37.826000: 1 times: 0.50% of total responses
+Option 2018-07-23 15:16:23.934000: 1 times: 0.50% of total responses
+
+
+
+
+
+
+Dataset 1: Your Name
+Keywords: 
+Too few keywords. Index error.
+
+
+Mode: Hidden
+
+
+Popularity of options: 
+Option Hidden: 201 times: 100.00% of total responses
+
+
+
+
+
+
+Dataset 2: Class
+Keywords: 
+No keywords. List empty.
+
+
+Mode: 1H
+
+
+Popularity of options: 
+Option 1B: 14 times: 6.97% of total responses
+Option 1A: 16 times: 7.96% of total responses
+Option 1K: 9 times: 4.48% of total responses
+Option 1L: 13 times: 6.47% of total responses
+Option 1H: 23 times: 11.44% of total responses
+Option 1G: 18 times: 8.96% of total responses
+Option 1C: 17 times: 8.46% of total responses
+Option 1D: 17 times: 8.46% of total responses
+Option 1c: 4 times: 1.99% of total responses
+Option 1F: 16 times: 7.96% of total responses
+Option 1E: 11 times: 5.47% of total responses
+Option 1f: 2 times: 1.00% of total responses
+Option 1e: 1 times: 0.50% of total responses
+Option 1I: 18 times: 8.96% of total responses
+Option 1i: 2 times: 1.00% of total responses
+Option 1J: 17 times: 8.46% of total responses
+Option 1b: 1 times: 0.50% of total responses
+Option 1j: 1 times: 0.50% of total responses
+Option Y1E: 1 times: 0.50% of total responses
+
+
+
+
+
+
+Dataset 3: Index Number
+Keywords: 
+Too few keywords. Index error.
+
+
+Mode: Hidden
+
+
+Popularity of options: 
+Option Hidden: 201 times: 100.00% of total responses
+
+
+
+
+
+
+Dataset 4: I am excited about the skills I learnt during CS
+Mean: 4.17
+Median: 4
+Mode: 4
+
+
+Popularity of options: 
+Option 5: 80 times: 39.80% of total responses
+Option 3: 29 times: 14.43% of total responses
+Option 2: 5 times: 2.49% of total responses
+Option 4: 85 times: 42.29% of total responses
+Option 1: 2 times: 1.00% of total responses
+
+
+
+
+
+
+Dataset 5: I feel confident in my technical skills
+Mean: 3.40
+Median: 4
+Mode: 4
+
+
+Popularity of options: 
+Option 4: 75 times: 37.31% of total responses
+Option 3: 63 times: 31.34% of total responses
+Option 2: 23 times: 11.44% of total responses
+Option 5: 27 times: 13.43% of total responses
+Option 1: 13 times: 6.47% of total responses
+
+
+
+
+
+
+Dataset 6: I know how to work through problems when I get stumped
+Mean: 3.59
+Median: 4
+Mode: 4
+
+
+Popularity of options: 
+Option 4: 80 times: 39.80% of total responses
+Option 5: 34 times: 16.92% of total responses
+Option 1: 5 times: 2.49% of total responses
+Option 3: 62 times: 30.85% of total responses
+Option 2: 20 times: 9.95% of total responses
+
+
+
+
+
+
+Dataset 7: Learning about technology is exciting
+Mean: 4.39
+Median: 5
+Mode: 5
+
+
+Popularity of options: 
+Option 4: 60 times: 29.85% of total responses
+Option 5: 117 times: 58.21% of total responses
+Option 1: 3 times: 1.49% of total responses
+Option 2: 8 times: 3.98% of total responses
+Option 3: 13 times: 6.47% of total responses
+
+
+
+
+
+
+Dataset 8: I wish I had more opportunities to learn technical skill
+Mean: 4.13
+Median: 4
+Mode: 5
+
+
+Popularity of options: 
+Option 5: 84 times: 41.79% of total responses
+Option 1: 5 times: 2.49% of total responses
+Option 2: 5 times: 2.49% of total responses
+Option 4: 75 times: 37.31% of total responses
+Option 3: 32 times: 15.92% of total responses
+
+
+
+
+
+
+Dataset 9: I would like to own a Microbit set for my own learning
+Mean: 3.86
+Median: 4
+Mode: 5
+
+
+Popularity of options: 
+Option 4: 42 times: 20.90% of total responses
+Option 5: 83 times: 41.29% of total responses
+Option 1: 9 times: 4.48% of total responses
+Option 2: 18 times: 8.96% of total responses
+Option 3: 49 times: 24.38% of total responses
+
+
+
+
+
+
+Dataset 10: I would consider using Microbit for my future school projects 
+Keywords: 
+Too few keywords. Index error.
+
+
+Mode: Maybe
+
+
+Popularity of options: 
+Option Maybe: 114 times: 56.72% of total responses
+Option Yes: 69 times: 34.33% of total responses
+Option No: 18 times: 8.96% of total responses
+
+
+
+
+
+
+Dataset 11: What was your favourite part of the course?
+Keywords: 
+Score of keyword microbits: 0.3791733765279981
+Score of keyword games: 0.36661139806896226
+Score of keyword coded: 0.3521463007890142
+Score of keyword learn: 0.3233914632219592
+Score of keyword programs: 0.31578889971983864
+Score of keyword projects: 0.20250442207769823
+Score of keyword making: 0.1708694088439269
+Score of keyword videos: 0.1325885785700017
+Score of keyword new: 0.13028577236025052
+Score of keyword different: 0.10427851328698484
+
+
+Mode: Programming
+
+
+Popularity of options: 
+Option shooting game: 1 times: 0.50% of total responses
+Option Learning about the shooting game: 1 times: 0.50% of total responses
+Option Everything: 3 times: 1.49% of total responses
+Option Learning how to use the game block.: 1 times: 0.50% of total responses
+Option The games! :PPP: 1 times: 0.50% of total responses
+Option Everything.: 1 times: 0.50% of total responses
+Option Programming: 4 times: 1.99% of total responses
+Option The coding: 1 times: 0.50% of total responses
+Option The use of the microbit to play the game I created.: 1 times: 0.50% of total responses
+Option The project : 1 times: 0.50% of total responses
+Option trying to code the microbit: 1 times: 0.50% of total responses
+Option Programming the microbit: 1 times: 0.50% of total responses
+Option the prentation: 1 times: 0.50% of total responses
+Option Programming the shooting game: 2 times: 1.00% of total responses
+Option Our projects: 1 times: 0.50% of total responses
+Option When we were working on projects.: 1 times: 0.50% of total responses
+Option The creation of the flappy bird code: 1 times: 0.50% of total responses
+Option The computer: 1 times: 0.50% of total responses
+Option Coding and decryption (Radio): 1 times: 0.50% of total responses
+Option Probably everything: 1 times: 0.50% of total responses
+Option NIL: 1 times: 0.50% of total responses
+Option The project: 3 times: 1.49% of total responses
+Option Learning new techinal skills: 1 times: 0.50% of total responses
+Option Using the computer: 1 times: 0.50% of total responses
+Option Individual project: 2 times: 1.00% of total responses
+Option Learning about different aspects of programming: 1 times: 0.50% of total responses
+Option Learning how to code new games.: 1 times: 0.50% of total responses
+Option The Project: 1 times: 0.50% of total responses
+Option The decoding lesson: 1 times: 0.50% of total responses
+Option getting to know how to code complicated codes: 1 times: 0.50% of total responses
+Option Experimenting with the codes.: 1 times: 0.50% of total responses
+Option Trying to learn to write Javascript through the blocks system: 1 times: 0.50% of total responses
+Option My favourite part of the course was doing the caesar decoder as it was quite challenging and made me think about my code.: 1 times: 0.50% of total responses
+Option Making games: 1 times: 0.50% of total responses
+Option Learning how to make games on microbit: 1 times: 0.50% of total responses
+Option the programming: 1 times: 0.50% of total responses
+Option Learning how to program games using microbit: 1 times: 0.50% of total responses
+Option I enjoy making games, such as flappy bird throughout the course. I also enjoy the  process of learning different functions, such as array, something I did not learn in Scratch.: 1 times: 0.50% of total responses
+Option Learning about making games: 1 times: 0.50% of total responses
+Option The project making: 1 times: 0.50% of total responses
+Option Making games.: 1 times: 0.50% of total responses
+Option making the games: 1 times: 0.50% of total responses
+Option The microbit assignment at the end of the module: 1 times: 0.50% of total responses
+Option Creation of the games: 1 times: 0.50% of total responses
+Option When i was working on the final microbit project: 1 times: 0.50% of total responses
+Option -: 1 times: 0.50% of total responses
+Option The challenges the teacher assigned.: 1 times: 0.50% of total responses
+Option making a game
+: 1 times: 0.50% of total responses
+Option making games: 2 times: 1.00% of total responses
+Option The microbit tryouts: 1 times: 0.50% of total responses
+Option the part where it ended: 1 times: 0.50% of total responses
+Option Being able to learn how to successfully program a microbit gives a sense of accomplishment.: 1 times: 0.50% of total responses
+Option learning about different coding blocks: 1 times: 0.50% of total responses
+Option The assignment: 1 times: 0.50% of total responses
+Option The Individual Microbit Project: 1 times: 0.50% of total responses
+Option Variables: 1 times: 0.50% of total responses
+Option Creating the bullet game for the assignment (summative): 1 times: 0.50% of total responses
+Option ceaser cypher: 1 times: 0.50% of total responses
+Option getting to code : 1 times: 0.50% of total responses
+Option Loops and Logic: 1 times: 0.50% of total responses
+Option When we were allowed to use the computers: 1 times: 0.50% of total responses
+Option The programming and trial and error part of the coding that was fun and exciting.: 1 times: 0.50% of total responses
+Option when we learnt the game for fighting and shooting aliens : 1 times: 0.50% of total responses
+Option The individual assignment: 1 times: 0.50% of total responses
+Option I like building games: 1 times: 0.50% of total responses
+Option na: 1 times: 0.50% of total responses
+Option It was fun and enjoyable, the activities we did with the micro-bit was very interactive and fun.: 1 times: 0.50% of total responses
+Option Programming games on the Microbit: 1 times: 0.50% of total responses
+Option When we tried to decode a message.: 1 times: 0.50% of total responses
+Option THE PART WHEN WE START PROGRAMMING: 1 times: 0.50% of total responses
+Option Making fun programs with microbit.: 1 times: 0.50% of total responses
+Option Posting a YouTube video: 1 times: 0.50% of total responses
+Option Caesar Cipher: 1 times: 0.50% of total responses
+Option Getting to programme.: 1 times: 0.50% of total responses
+Option making a game: 1 times: 0.50% of total responses
+Option Creating the Flappy Bird Game: 1 times: 0.50% of total responses
+Option getting points: 1 times: 0.50% of total responses
+Option 
+   Learning how to programme games: 1 times: 0.50% of total responses
+Option The summative when creating your own game or code: 1 times: 0.50% of total responses
+Option The fun activities.: 1 times: 0.50% of total responses
+Option programming: 1 times: 0.50% of total responses
+Option Lessons: 1 times: 0.50% of total responses
+Option Making the code for the game: 1 times: 0.50% of total responses
+Option Learning about microbits: 1 times: 0.50% of total responses
+Option The find the boat thing: 1 times: 0.50% of total responses
+Option Trying my hands on coding the microbit!: 1 times: 0.50% of total responses
+Option bonus raw marks for homework: 1 times: 0.50% of total responses
+Option The part where we had to decipher the code: 1 times: 0.50% of total responses
+Option Learning to code: 3 times: 1.49% of total responses
+Option learning microbit: 1 times: 0.50% of total responses
+Option the teacher: 1 times: 0.50% of total responses
+Option nill: 1 times: 0.50% of total responses
+Option the part when we can watch utube: 1 times: 0.50% of total responses
+Option The video: 2 times: 1.00% of total responses
+Option Playing Games: 1 times: 0.50% of total responses
+Option the last few weeks because we got to use our creativity to combine everything we learnt.: 1 times: 0.50% of total responses
+Option Programming the game at the end of the course: 1 times: 0.50% of total responses
+Option hands-on tasks: 1 times: 0.50% of total responses
+Option Group work/games: 1 times: 0.50% of total responses
+Option The last few lessons were less stressful because there were more time to do our projects. : 1 times: 0.50% of total responses
+Option Learning how to make games.: 2 times: 1.00% of total responses
+Option Learning and using arrays: 1 times: 0.50% of total responses
+Option Learning about variables: 2 times: 1.00% of total responses
+Option Using the computers to play games on the sly.: 1 times: 0.50% of total responses
+Option actually using the micro bit
+: 1 times: 0.50% of total responses
+Option The challenges: 1 times: 0.50% of total responses
+Option creating game codes: 1 times: 0.50% of total responses
+Option the project: 1 times: 0.50% of total responses
+Option Learning about coding: 1 times: 0.50% of total responses
+Option Creating new projects with microbit: 1 times: 0.50% of total responses
+Option The making game part.: 1 times: 0.50% of total responses
+Option My favourite part of the course was when i got to experiment for myself using microbit.org to make my own codes.: 1 times: 0.50% of total responses
+Option creating games: 1 times: 0.50% of total responses
+Option The creating of games on microbit.: 1 times: 0.50% of total responses
+Option Playing the games that is coded on the microbit.: 1 times: 0.50% of total responses
+Option The Project and the last lesson.: 1 times: 0.50% of total responses
+Option using computers: 1 times: 0.50% of total responses
+Option Seeing my codes work: 1 times: 0.50% of total responses
+Option The favourite part of the course was the flappy bird. : 1 times: 0.50% of total responses
+Option Using the microbit simulator: 1 times: 0.50% of total responses
+Option The part before we learnt about Microbit: 1 times: 0.50% of total responses
+Option The final project: 1 times: 0.50% of total responses
+Option Coding Project!: 1 times: 0.50% of total responses
+Option Using an actual Microbit: 1 times: 0.50% of total responses
+Option learning to code: 1 times: 0.50% of total responses
+Option Learning how to code Flappy Bird.: 1 times: 0.50% of total responses
+Option Creating games: 1 times: 0.50% of total responses
+Option Being able to think of new solutions to the same problem: 1 times: 0.50% of total responses
+Option idk: 1 times: 0.50% of total responses
+Option Coding complicated games.: 1 times: 0.50% of total responses
+Option I like the lesson when we get to use the microbit.: 1 times: 0.50% of total responses
+Option My favourite part of the course was solving the challenge homework questions (e.g. Card games and AI) which really stretched my coding skills further and put it into perspective for me as a fun and useful part of our daily lives. Similarly, the process of coding my own games and programs allowed me to learn about troubleshooting.: 1 times: 0.50% of total responses
+Option Learning how to use Microbit together with programs.: 1 times: 0.50% of total responses
+Option Coding games and removing bugs in the coding: 1 times: 0.50% of total responses
+Option watching the video: 1 times: 0.50% of total responses
+Option learning how to code games: 1 times: 0.50% of total responses
+Option Own project: 1 times: 0.50% of total responses
+Option The blackjack and using knowledge to create your own games!: 1 times: 0.50% of total responses
+Option Learning how to code games.: 1 times: 0.50% of total responses
+Option Creating new programmes: 1 times: 0.50% of total responses
+Option The project - coding was very enjoyable: 1 times: 0.50% of total responses
+Option The hands on activities: 1 times: 0.50% of total responses
+Option Hardware: 2 times: 1.00% of total responses
+Option Programming the last assignment: 1 times: 0.50% of total responses
+Option The lessons: 2 times: 1.00% of total responses
+Option Programming games and using the tinker kits: 1 times: 0.50% of total responses
+Option Learning about several coding parts in Microbit (arrays, loops), learning about things like algorithms: 1 times: 0.50% of total responses
+Option When I could present solutions which were practical and understandable : 1 times: 0.50% of total responses
+Option solving the problems and doing the assignments at home. : 1 times: 0.50% of total responses
+Option Working with the computers to programme games: 1 times: 0.50% of total responses
+Option It was the project part because you can create any game you want.: 1 times: 0.50% of total responses
+Option Being able to see my end project: 1 times: 0.50% of total responses
+Option Learning how to make games: 1 times: 0.50% of total responses
+Option Making my own game: 2 times: 1.00% of total responses
+Option Logic: 1 times: 0.50% of total responses
+Option Exploring the set: 1 times: 0.50% of total responses
+Option Videos: 1 times: 0.50% of total responses
+Option Final project, multiplayer game with Putra: 1 times: 0.50% of total responses
+Option Playing with Microbit set: 1 times: 0.50% of total responses
+Option Homework assignments where we are given a problem to be solved with the use of a microbit, which we must solve.: 1 times: 0.50% of total responses
+Option we tried out many different use of microbits to solve out daily problems: 1 times: 0.50% of total responses
+Option programming games: 1 times: 0.50% of total responses
+Option learning to code games: 1 times: 0.50% of total responses
+Option Learning the different uses of the codes: 1 times: 0.50% of total responses
+Option Doing multiplayer projects w/ Yu Chen: 1 times: 0.50% of total responses
+Option Learning about the use for different programming functions: 1 times: 0.50% of total responses
+Option Learning about how to program using Javascript, although I did not learn much.: 1 times: 0.50% of total responses
+Option The video on algorhithms: 1 times: 0.50% of total responses
+Option Using the microbit: 2 times: 1.00% of total responses
+Option Using microbit.: 1 times: 0.50% of total responses
+Option Coding programmes and games we want: 1 times: 0.50% of total responses
+Option Microbit: 2 times: 1.00% of total responses
+Option Using microbit: 1 times: 0.50% of total responses
+Option Using the actual microbit : 1 times: 0.50% of total responses
+Option The bonus marks: 1 times: 0.50% of total responses
+Option The making of the project : 1 times: 0.50% of total responses
+Option Programming!: 1 times: 0.50% of total responses
+Option Using the physical Microbit: 1 times: 0.50% of total responses
+Option I like the teacher: 1 times: 0.50% of total responses
+Option Coding: 1 times: 0.50% of total responses
+Option Coding games: 1 times: 0.50% of total responses
+
+
+
+
+
+
+Dataset 12: What was your least favourite part of the course?
+Keywords: 
+Score of keyword nil: 0.6369286071066049
+Score of keyword array: 0.3273078723513874
+Score of keyword microbit: 0.21698852487113324
+Score of keyword learning: 0.19285070797756748
+Score of keyword code: 0.18033717461181037
+Score of keyword project: 0.1591627006790161
+Score of keyword functions: 0.11524898410118817
+Score of keyword difficult: 0.11212931062988112
+Score of keyword homework: 0.11062043183963101
+Score of keyword monitor: 0.11015659078702734
+
+
+Mode: NIL
+
+
+Popularity of options: 
+Option intro: 1 times: 0.50% of total responses
+Option The end: 1 times: 0.50% of total responses
+Option NIL: 18 times: 8.96% of total responses
+Option Coding with loops: 1 times: 0.50% of total responses
+Option the confusing parts :((((: 1 times: 0.50% of total responses
+Option Nothing: 6 times: 2.99% of total responses
+Option Not much: 1 times: 0.50% of total responses
+Option Nil: 9 times: 4.48% of total responses
+Option Watching people get scolded : 1 times: 0.50% of total responses
+Option Programming the microbit: 1 times: 0.50% of total responses
+Option nil: 9 times: 4.48% of total responses
+Option Finding out what went wrong in Microbit projects: 1 times: 0.50% of total responses
+Option A really hard lesson: 1 times: 0.50% of total responses
+Option When I could not do the project.: 1 times: 0.50% of total responses
+Option idk: 2 times: 1.00% of total responses
+Option Min Jie: 1 times: 0.50% of total responses
+Option Probably nothing: 1 times: 0.50% of total responses
+Option N.A: 1 times: 0.50% of total responses
+Option Making the codes: 1 times: 0.50% of total responses
+Option None: 4 times: 1.99% of total responses
+Option The summative project.: 1 times: 0.50% of total responses
+Option not sure: 1 times: 0.50% of total responses
+Option Making a code from scratch when I have no idea how to do it.: 1 times: 0.50% of total responses
+Option Nil.: 1 times: 0.50% of total responses
+Option Doing the summative: 1 times: 0.50% of total responses
+Option nil-: 1 times: 0.50% of total responses
+Option Arrays: 4 times: 1.99% of total responses
+Option the lesson on for loops and arrays : 1 times: 0.50% of total responses
+Option Microbit too small.: 1 times: 0.50% of total responses
+Option Ceaser cipher: 1 times: 0.50% of total responses
+Option -Nil-: 1 times: 0.50% of total responses
+Option none.: 1 times: 0.50% of total responses
+Option -: 2 times: 1.00% of total responses
+Option The part where the students have to present their work.: 1 times: 0.50% of total responses
+Option Programmes are too complicated: 1 times: 0.50% of total responses
+Option The complicated coding: 1 times: 0.50% of total responses
+Option all of it: 1 times: 0.50% of total responses
+Option Being slightly confused about new functions.: 1 times: 0.50% of total responses
+Option NA: 1 times: 0.50% of total responses
+Option N:A: 1 times: 0.50% of total responses
+Option Learning about Arrays: 1 times: 0.50% of total responses
+Option Finding blocks: 1 times: 0.50% of total responses
+Option Making arrays: 1 times: 0.50% of total responses
+Option When I met a problem and could not correct it.: 1 times: 0.50% of total responses
+Option the last test: 1 times: 0.50% of total responses
+Option it is a little bit confounding: 1 times: 0.50% of total responses
+Option Radio signals: 1 times: 0.50% of total responses
+Option when we had to do a project : 1 times: 0.50% of total responses
+Option NIL :^): 1 times: 0.50% of total responses
+Option when the teacher was scolding and we wasted a lot of time: 1 times: 0.50% of total responses
+Option Remebring everything: 1 times: 0.50% of total responses
+Option The array lesson: 1 times: 0.50% of total responses
+Option na: 2 times: 1.00% of total responses
+Option nothing: 2 times: 1.00% of total responses
+Option NIL I enjoyed everything about CS: 1 times: 0.50% of total responses
+Option Listening to the explanations.: 1 times: 0.50% of total responses
+Option THE BRIEFING PART: 1 times: 0.50% of total responses
+Option Doing project.: 1 times: 0.50% of total responses
+Option Using a real microbit: 1 times: 0.50% of total responses
+Option Flappy Bird: 1 times: 0.50% of total responses
+Option Start programming with Blocks instead of starting with Python. I mean, I feel that Blocks is too complex, should start with Python. Although need to type more code, but I'll get a better understanding of the whole thing.: 1 times: 0.50% of total responses
+Option flappy bird: 1 times: 0.50% of total responses
+Option summative: 1 times: 0.50% of total responses
+Option doing homework: 1 times: 0.50% of total responses
+Option Learning about arrays: 2 times: 1.00% of total responses
+Option the arrays: 1 times: 0.50% of total responses
+Option Project: 1 times: 0.50% of total responses
+Option Arrays are quite complicated: 1 times: 0.50% of total responses
+Option The individual microbit project: 1 times: 0.50% of total responses
+Option doing the summative project: 1 times: 0.50% of total responses
+Option the arrays part: 1 times: 0.50% of total responses
+Option When I am learning about arrays. They are so difficult!: 1 times: 0.50% of total responses
+Option Understanding Coding: 1 times: 0.50% of total responses
+Option Bonus questions- i do not know how to do them: 1 times: 0.50% of total responses
+Option Not knowing how to code a programme: 1 times: 0.50% of total responses
+Option making the games: 1 times: 0.50% of total responses
+Option the first few lessons cos i already learnt them: 1 times: 0.50% of total responses
+Option the part when we had to stand up: 1 times: 0.50% of total responses
+Option The project : 1 times: 0.50% of total responses
+Option The Project: 1 times: 0.50% of total responses
+Option Learning the uses of the different blocks: 1 times: 0.50% of total responses
+Option the first 2 or 3 lessons because computer science is completely new to me and it was hard to get my head around some of the concepts.: 1 times: 0.50% of total responses
+Option Learning about arrays because it was slightly confusing: 1 times: 0.50% of total responses
+Option using arrays: 1 times: 0.50% of total responses
+Option When I had no idea what we were supposed to do after the teacher taught us: 1 times: 0.50% of total responses
+Option The difficult functions (arrays): 1 times: 0.50% of total responses
+Option Learning how to use arrays.: 1 times: 0.50% of total responses
+Option Having to move to the front of the classroom to view powerpoint slides each lesson: 1 times: 0.50% of total responses
+Option Trying to do stuff with arrays: 1 times: 0.50% of total responses
+Option None.: 2 times: 1.00% of total responses
+Option coding: 1 times: 0.50% of total responses
+Option Having to go to the front of the class for the powerpoint slides: 1 times: 0.50% of total responses
+Option Not being able to solve the problems: 1 times: 0.50% of total responses
+Option learning about the arrays: 1 times: 0.50% of total responses
+Option Looking at the for long monitor gives me headaches: 1 times: 0.50% of total responses
+Option It was a bit too complicated at times: 1 times: 0.50% of total responses
+Option I enjoyed everything: 1 times: 0.50% of total responses
+Option not able to catch up on what is happening: 1 times: 0.50% of total responses
+Option Not too sure: 1 times: 0.50% of total responses
+Option coding the code.: 1 times: 0.50% of total responses
+Option NIL.: 1 times: 0.50% of total responses
+Option Doing the projects: 1 times: 0.50% of total responses
+Option We had to use microbit instead of other platforms: 1 times: 0.50% of total responses
+Option Using Microbit: 1 times: 0.50% of total responses
+Option when we did the flappy bird game and I didnt understand anything: 1 times: 0.50% of total responses
+Option Learning about game components on Makecode.: 1 times: 0.50% of total responses
+Option Using the simulator: 1 times: 0.50% of total responses
+Option When I don't understand what the teacher is saying.: 1 times: 0.50% of total responses
+Option Individual Project having 100 points: 1 times: 0.50% of total responses
+Option Trying to find the problems in my code: 1 times: 0.50% of total responses
+Option The first lesson : 1 times: 0.50% of total responses
+Option When I could not understand some parts of the explanation sometimes.: 1 times: 0.50% of total responses
+Option N.A.: 1 times: 0.50% of total responses
+Option NIL. I enjoyed the entire course :).: 1 times: 0.50% of total responses
+Option Using the  GPIO PINs for coding as you have to download the codes onto the hardware  to test out, wasting a lot of time: 1 times: 0.50% of total responses
+Option doing microbit: 2 times: 1.00% of total responses
+Option waiting: 1 times: 0.50% of total responses
+Option Game functions teachings: 1 times: 0.50% of total responses
+Option Arrays( Its hard......): 1 times: 0.50% of total responses
+Option the homework :): 1 times: 0.50% of total responses
+Option The project: 2 times: 1.00% of total responses
+Option Not understanding the blocks: 1 times: 0.50% of total responses
+Option The homework: 2 times: 1.00% of total responses
+Option Loops: 1 times: 0.50% of total responses
+Option Learning "arrays" : 1 times: 0.50% of total responses
+Option The frustration when my project doesn't work: 1 times: 0.50% of total responses
+Option None : 1 times: 0.50% of total responses
+Option Sitting in class doing nothing really.: 1 times: 0.50% of total responses
+Option Arrays.: 1 times: 0.50% of total responses
+Option Learning about Arrays.: 1 times: 0.50% of total responses
+Option Memorising the difficult parts : 1 times: 0.50% of total responses
+Option the homework was really hard: 1 times: 0.50% of total responses
+Option Dismissal :(: 1 times: 0.50% of total responses
+Option microbit is quite limited: 1 times: 0.50% of total responses
+Option The project at the end: 1 times: 0.50% of total responses
+Option When I couldn't understand how the code works and how to do the harder homework: 1 times: 0.50% of total responses
+Option there wasnt enough time for CS: 1 times: 0.50% of total responses
+Option Homework: 1 times: 0.50% of total responses
+Option Not learning much: 1 times: 0.50% of total responses
+Option the part when i learnt about arrays.: 1 times: 0.50% of total responses
+Option The part where we had to do work: 1 times: 0.50% of total responses
+Option Learning The codes : 1 times: 0.50% of total responses
+Option Not knowing how to solve a pooblrm: 1 times: 0.50% of total responses
+Option Nil : 1 times: 0.50% of total responses
+Option The complicated parts: 1 times: 0.50% of total responses
+Option Learning difficult codes: 1 times: 0.50% of total responses
+Option The problems of the codes i don't know how to solve: 1 times: 0.50% of total responses
+Option Reflections.: 1 times: 0.50% of total responses
+
+
+
+
+
+
+Dataset 13: What could be improved?
+Keywords: 
+Score of keyword nil: 0.42116435856358203
+Score of keyword lesson: 0.22858651407487313
+Score of keyword microbits: 0.22613477192009895
+Score of keyword scratch: 0.20244594047470277
+Score of keyword longer: 0.17257027526890664
+Score of keyword program: 0.16335233828102053
+Score of keyword projects: 0.15634087468045132
+Score of keyword micro: 0.15592666259600035
+Score of keyword times: 0.15275809916424243
+Score of keyword use: 0.14746140513407757
+
+
+Mode: NIL
+
+
+Popularity of options: 
+Option how fun the games created are: 1 times: 0.50% of total responses
+Option nothing: 4 times: 1.99% of total responses
+Option Longer Duration: 1 times: 0.50% of total responses
+Option Lessons could be more structured.: 1 times: 0.50% of total responses
+Option More interesting activities should be conducted. :?: 1 times: 0.50% of total responses
+Option NOTHING: 2 times: 1.00% of total responses
+Option Everything is excellent 
+for the below qn, I can't sign up because I have CSP and my parents want me to continue with it.: 1 times: 0.50% of total responses
+Option NIL: 15 times: 7.46% of total responses
+Option We can do more practises.: 1 times: 0.50% of total responses
+Option Nil : 1 times: 0.50% of total responses
+Option more practices.: 1 times: 0.50% of total responses
+Option More accessories to build on the microbit.: 1 times: 0.50% of total responses
+Option more descriptions when teaching us the codes: 1 times: 0.50% of total responses
+Option More variety of games: 1 times: 0.50% of total responses
+Option We can use our time better: 1 times: 0.50% of total responses
+Option The project.: 1 times: 0.50% of total responses
+Option Longer period of time of the CS: 1 times: 0.50% of total responses
+Option The computer size.: 1 times: 0.50% of total responses
+Option They should extend the time length of CS: 1 times: 0.50% of total responses
+Option Quite ok liao lah: 1 times: 0.50% of total responses
+Option N.A: 1 times: 0.50% of total responses
+Option Make it more interesting, use other tools etc.: 1 times: 0.50% of total responses
+Option Receive the addons earlier: 1 times: 0.50% of total responses
+Option Lesson time could be longer :): 1 times: 0.50% of total responses
+Option Give us a free microbit so we can practise at home.: 1 times: 0.50% of total responses
+Option Maybe there could be more sections in the 'advanced' tab covered (they look interesting): 1 times: 0.50% of total responses
+Option duration longer: 1 times: 0.50% of total responses
+Option Explanation of the why the codes work.: 1 times: 0.50% of total responses
+Option Maybe a separate streaming for those that have knowledge in programming so as to allow them to cover a greater depth (not just Javascript blocks, but maybe directly using Javascript for them): 1 times: 0.50% of total responses
+Option We could learn more about the advanced tab such as the control tab.: 1 times: 0.50% of total responses
+Option The number of lessons: 1 times: 0.50% of total responses
+Option Learn more stuff (e.g. functions, LED, control, Pins): 1 times: 0.50% of total responses
+Option nil-: 1 times: 0.50% of total responses
+Option increase the number of weeks for computer studies: 1 times: 0.50% of total responses
+Option I feel that they can teach us more on JavaScript instead of just block coding, as a number of us has prior knowledge to block coding, thus I feel that maybe they can teach us more on JavaScript: 1 times: 0.50% of total responses
+Option N/A: 1 times: 0.50% of total responses
+Option Stop learning microbit and do C++: 1 times: 0.50% of total responses
+Option Use of microbit.: 1 times: 0.50% of total responses
+Option everyone gets their own microbit: 1 times: 0.50% of total responses
+Option nil: 5 times: 2.49% of total responses
+Option -Nil-: 1 times: 0.50% of total responses
+Option its perfect
+: 1 times: 0.50% of total responses
+Option -: 3 times: 1.49% of total responses
+Option Let the students present less.: 1 times: 0.50% of total responses
+Option go through programmes more carefully: 1 times: 0.50% of total responses
+Option The increase of microbit using: 1 times: 0.50% of total responses
+Option i want to learn using blockly because i can actually get stuff done with it: 1 times: 0.50% of total responses
+Option More freedom in allowing us to program what we want.: 1 times: 0.50% of total responses
+Option more hands-on: 1 times: 0.50% of total responses
+Option More hands on activies: 1 times: 0.50% of total responses
+Option The other sections in microbit could also be taught: 1 times: 0.50% of total responses
+Option More hands-on activities.: 1 times: 0.50% of total responses
+Option Dont use microbit : 1 times: 0.50% of total responses
+Option maybe using some other type of online programming software like Scratch: 1 times: 0.50% of total responses
+Option I hope that we could get to use more interesting gadgets like the MicroBit.: 1 times: 0.50% of total responses
+Option everyone gets a free microbit
+for the below qs: i want to yet i have another elective: 1 times: 0.50% of total responses
+Option discipline over class: 1 times: 0.50% of total responses
+Option increased time for doing coding: 1 times: 0.50% of total responses
+Option Please introduce us to more of the blocks that we are more likely not to understand.: 1 times: 0.50% of total responses
+Option The fact that this is a course and not enrichment: 1 times: 0.50% of total responses
+Option It is very good and I think it is great at how it is now.: 1 times: 0.50% of total responses
+Option instilling more discipline in the class : 1 times: 0.50% of total responses
+Option Slow down the speed: 1 times: 0.50% of total responses
+Option The amount of time we have to explore the various functions of the microbit code.: 1 times: 0.50% of total responses
+Option na: 1 times: 0.50% of total responses
+Option Maybe we get to learn more about the tinkers kit: 1 times: 0.50% of total responses
+Option NIL It is already great.: 1 times: 0.50% of total responses
+Option Give us a Microbit: 1 times: 0.50% of total responses
+Option Nothing: 6 times: 2.99% of total responses
+Option We could use a Raspberry Pi instead of a microbit as it is more powerful: 1 times: 0.50% of total responses
+Option The Programme(what we do): 1 times: 0.50% of total responses
+Option Begin programming in Python rather than the complexity of Blocks.: 1 times: 0.50% of total responses
+Option what we do: 1 times: 0.50% of total responses
+Option pay more attention by talking less: 1 times: 0.50% of total responses
+Option The glitch in the microbit: 1 times: 0.50% of total responses
+Option The number of weeks in the course. Lengthen it please: 1 times: 0.50% of total responses
+Option maybe we could have more equipment to use with the micro bit: 1 times: 0.50% of total responses
+Option More time for projects  & lower targets.: 1 times: 0.50% of total responses
+Option More time for lessons: 1 times: 0.50% of total responses
+Option Can teach slower so that we can understand the codes : 1 times: 0.50% of total responses
+Option more time for projects: 1 times: 0.50% of total responses
+Option Let us play with the microbit longer: 1 times: 0.50% of total responses
+Option My understanding of arrays and my attentiveness in class.: 1 times: 0.50% of total responses
+Option should be easier to understand: 1 times: 0.50% of total responses
+Option more CS lessons: 1 times: 0.50% of total responses
+Option Teach us the specific functions of each funtion: 1 times: 0.50% of total responses
+Option More games with microbit: 1 times: 0.50% of total responses
+Option more games but easier: 1 times: 0.50% of total responses
+Option do typing programming instead of blocks: 1 times: 0.50% of total responses
+Option the time we can use utube: 1 times: 0.50% of total responses
+Option Place in small groups for the project: 1 times: 0.50% of total responses
+Option Include more fun games: 1 times: 0.50% of total responses
+Option more games: 1 times: 0.50% of total responses
+Option nothing. the class is very good: 1 times: 0.50% of total responses
+Option Not all the students understood all of the concepts taught. The students could be quizzed to see if they really understood the concept or not.: 1 times: 0.50% of total responses
+Option More free time after doing our work?: 1 times: 0.50% of total responses
+Option More fun stuff, more games: 1 times: 0.50% of total responses
+Option Teaching a bit using Javascript instead of blocks.: 1 times: 0.50% of total responses
+Option Allowing students to sit at their computers and try out the things mentioned in the slides: 1 times: 0.50% of total responses
+Option Let us programme some actual JavaScript instead of giving us blocks to work with.: 1 times: 0.50% of total responses
+Option More challenges: 1 times: 0.50% of total responses
+Option The efficiency of my code: 1 times: 0.50% of total responses
+Option the length of the course: 1 times: 0.50% of total responses
+Option using worksheets instead: 1 times: 0.50% of total responses
+Option teacher should check around more to help: 1 times: 0.50% of total responses
+Option Have Computer Studies in year 2 as well?: 1 times: 0.50% of total responses
+Option NIL.: 1 times: 0.50% of total responses
+Option We could use other platfroms to create games: 1 times: 0.50% of total responses
+Option Do not use Microbit. It is boring and limiting in display power. Scratch 2.0 was much more fun.: 1 times: 0.50% of total responses
+Option I think we can start with easier projects so that we have more time to learn the basics: 1 times: 0.50% of total responses
+Option There could be more interesting stuff like more videos or activities.: 1 times: 0.50% of total responses
+Option Give us more opportunities to use the actual Microbit: 1 times: 0.50% of total responses
+Option More CS lessons.: 1 times: 0.50% of total responses
+Option Faster Pace: 1 times: 0.50% of total responses
+Option The time was too short: 1 times: 0.50% of total responses
+Option Using a slightly more advanced coding system like Scratch: 1 times: 0.50% of total responses
+Option Moving at a faster pace: 1 times: 0.50% of total responses
+Option Teacher can focus more on individuals and adjust lessons to different absorption levels.: 1 times: 0.50% of total responses
+Option N.A.: 2 times: 1.00% of total responses
+Option Perhaps the duration of the course could be increased so more advanced topics such as USB connections and Radio modules. The course could also have more lessons on using the Micro:Bit extension set. : 1 times: 0.50% of total responses
+Option More advanced function, coding etc.: 1 times: 0.50% of total responses
+Option We can have interaction with  other micro-computers other than microbits: 1 times: 0.50% of total responses
+Option idk: 1 times: 0.50% of total responses
+Option I dont know: 1 times: 0.50% of total responses
+Option NA: 1 times: 0.50% of total responses
+Option More lessons involving the real micro.bit: 1 times: 0.50% of total responses
+Option nothing much I think it was well thought out: 1 times: 0.50% of total responses
+Option Nil: 7 times: 3.48% of total responses
+Option Nothing much : 1 times: 0.50% of total responses
+Option Your mum: 1 times: 0.50% of total responses
+Option  Lessons should allow people not good in coding to understand.: 1 times: 0.50% of total responses
+Option The lesson could be shorter: 1 times: 0.50% of total responses
+Option More help for the project: 1 times: 0.50% of total responses
+Option The course could be longer so students can immerse themselves better into the microbit concept, : 1 times: 0.50% of total responses
+Option use scratch lol. : 1 times: 0.50% of total responses
+Option More fun activities: 1 times: 0.50% of total responses
+Option We could learn java script instead of using blocks.: 1 times: 0.50% of total responses
+Option Longer times for CS.: 1 times: 0.50% of total responses
+Option My skills: 1 times: 0.50% of total responses
+Option The homework could be made easier and more doable.: 1 times: 0.50% of total responses
+Option do something else related to CS: 1 times: 0.50% of total responses
+Option n.a.: 1 times: 0.50% of total responses
+Option Make cs longer: 1 times: 0.50% of total responses
+Option More videos: 1 times: 0.50% of total responses
+Option Amount of time with the physical micro:bit: 1 times: 0.50% of total responses
+Option Do moway & scratch: 1 times: 0.50% of total responses
+Option Giving us our own Micro:Bit: 1 times: 0.50% of total responses
+Option Give us our own micorbit kits!!!! ;): 1 times: 0.50% of total responses
+Option we can have more lessons: 1 times: 0.50% of total responses
+Option  NIL: 1 times: 0.50% of total responses
+Option  na: 1 times: 0.50% of total responses
+Option Having more time to learn the codes in greater detail and maybe learn more about Javascript too.: 1 times: 0.50% of total responses
+Option Add more time for CS! :): 1 times: 0.50% of total responses
+Option The duration of the lesson: 1 times: 0.50% of total responses
+Option We could be taught more programming and more advanced programming: 1 times: 0.50% of total responses
+Option Everything.: 1 times: 0.50% of total responses
+Option NOTHING :): 1 times: 0.50% of total responses
+Option More lessons: 1 times: 0.50% of total responses
+Option It's good enough
+: 1 times: 0.50% of total responses
+Option More time on practical applications of coding: 1 times: 0.50% of total responses
+Option Having more time to do the project: 1 times: 0.50% of total responses
+Option More notes can be created to help students to better understand the course : 1 times: 0.50% of total responses
+Option Using more features: 1 times: 0.50% of total responses
+Option They could teach methods to solve problems: 1 times: 0.50% of total responses
+Option None: 1 times: 0.50% of total responses
+
+
+
+
+
+
+Dataset 14: I am interested to sign up for Computer Elective Programme (Year 2 - Year 4)
+Keywords: 
+Too few keywords. Index error.
+
+
+Mode: Maybe
+
+
+Popularity of options: 
+Option Maybe: 89 times: 44.28% of total responses
+Option Yes: 23 times: 11.44% of total responses
+Option No: 44 times: 21.89% of total responses
+Option Yes, But I have Third Lang or other electives: 45 times: 22.39% of total responses
+
+
+
+
+
+
